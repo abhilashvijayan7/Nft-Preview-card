@@ -583,48 +583,20 @@ video {
   margin-left: 0.5rem;
 }
 
-.mt-4 {
-  margin-top: 1rem;
-}
-
-.mt-\[28px\] {
-  margin-top: 28px;
-}
-
-.mt-\[px\] {
-  margin-top: px;
-}
-
-.mt-\[20px\] {
-  margin-top: 20px;
-}
-
-.mt-\[15pxpx\] {
-  margin-top: 15pxpx;
-}
-
-.mt-\[15px\] {
-  margin-top: 15px;
-}
-
-.mt-3 {
-  margin-top: 0.75rem;
-}
-
-.mt-\[14px\] {
-  margin-top: 14px;
-}
-
-.mt-\[1px\] {
-  margin-top: 1px;
-}
-
 .mt-3\.5 {
   margin-top: 0.875rem;
 }
 
 .mt-\[16px\] {
   margin-top: 16px;
+}
+
+.mt-\[17px\] {
+  margin-top: 17px;
+}
+
+.mt-\[17\.5px\] {
+  margin-top: 17.5px;
 }
 
 .box-border {
@@ -732,6 +704,18 @@ video {
   padding-top: 1rem;
 }
 
+.pb-6 {
+  padding-bottom: 1.5rem;
+}
+
+.pb-0 {
+  padding-bottom: 0px;
+}
+
+.pb-7 {
+  padding-bottom: 1.75rem;
+}
+
 .font-outfit {
   font-family: "Outfit", sans-serif;
 }
@@ -746,6 +730,34 @@ video {
 
 .text-\[22px\] {
   font-size: 22px;
+}
+
+.text-\[18px\] {
+  font-size: 18px;
+}
+
+.text-\[23px\] {
+  font-size: 23px;
+}
+
+.text-\[17\.5px\] {
+  font-size: 17.5px;
+}
+
+.text-\[17\.9px\] {
+  font-size: 17.9px;
+}
+
+.text-\[17\.8px\] {
+  font-size: 17.8px;
+}
+
+.text-\[17\.7px\] {
+  font-size: 17.7px;
+}
+
+.text-\[17\.6px\] {
+  font-size: 17.6px;
 }
 
 .font-extralight {
